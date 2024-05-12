@@ -1,4 +1,4 @@
-import TweetBox from "@/components/tweetbox";
+
 import { View, Text, TextInput, TouchableOpacity, TouchableHighlight, ScrollView } from "react-native";
 import { Stack, router } from "expo-router";
 import { useEffect, useState } from "react";
